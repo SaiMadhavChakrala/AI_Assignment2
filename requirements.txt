@@ -1,6 +1,6 @@
-gym==0.26.2
-gym-chess==0.0.1
-python-chess==1.999
-cairosvg==2.6.0
-imageio==2.22.1
-Pillow==9.3.0
+gym
+gym-chess
+python-chess
+cairosvg
+imageio
+Pillow
